@@ -1,11 +1,5 @@
 {
     "name": "Test Snap can build Workflow",
     "description": "Snapcrafters Workflow template to ensure snaps can be built.",
-    "iconName": "snapcraft",
-    "filePatterns": [
-        "snapcraft.yaml$",
-        ".snapcraft.yaml$",
-        "snap/snapcraft.yaml$",
-        "build-aux/snapcraft.yaml$"
-    ]
+    "iconName": "snapcraft"
 }
