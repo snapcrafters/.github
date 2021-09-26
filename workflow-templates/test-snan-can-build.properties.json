@@ -4,6 +4,8 @@
     "iconName": "snapcraft",
     "filePatterns": [
         "snapcraft.yaml$",
-        ".snapcraft.yaml$"
+        ".snapcraft.yaml$",
+        "snap/snapcraft.yaml$",
+        "build-aux/snapcraft.yaml$"
     ]
 }
