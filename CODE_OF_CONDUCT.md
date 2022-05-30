@@ -1,4 +1,4 @@
-## Ubuntu Code of Conduct v1.1
+## Snapcrafters Code of Conduct v1.1 (Based on Ubuntu Code of Conduct v1.1)
 
 This Code of Conduct covers our behaviour as members of the Ubuntu
 Community, in any forum, mailing list, wiki, web site, IRC channel,
@@ -14,7 +14,8 @@ of the community.
     colleagues, and we should take those consequences into account when
     making decisions.  Ubuntu has millions of users and thousands of
     contributors. Even if it's not obvious at the time, our contributions
-    to Ubuntu will impact the work of others.  For example, changes to code, infrastructure, policy, documentation, and translations during a
+    to Ubuntu will impact the work of others.  For example, changes to code,
+    infrastructure, policy, documentation, and translations during a
     release may negatively impact others' work.
 
 - **Be respectful.**
