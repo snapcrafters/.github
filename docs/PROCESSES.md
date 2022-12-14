@@ -55,7 +55,7 @@ To become a core member of Snapcrafters you must be:
 * An active maintainer of at least one snap in your own name.
 * Sponsored by an admin or an existing Snapcrafters core member.
 
-If you fit these criteria or have a strong argument why you should be considered anyway then add a comment on the Snapcrafters reboot post](https://forum.snapcraft.io/t/snapcrafters-reboot/24625) to tell us, and the rest of the community, about your snaps. Also tell us the Snapcrafters snaps that you would like to take on. Ideally you have familiarity with the snaps you request. State the different ways of contribution and participation you’d like to be involved in. After your have been approved, we will be in touch to discuss administrative access and co-ordinate your first Snapcrafters meeting.
+If you fit these criteria or have a strong argument why you should be considered anyway then add a comment on the [Snapcrafters reboot post](https://forum.snapcraft.io/t/snapcrafters-reboot/24625) to tell us, and the rest of the community, about your snaps. Also tell us the Snapcrafters snaps that you would like to take on. Ideally you have familiarity with the snaps you request. State the different ways of contribution and participation you’d like to be involved in. After your have been approved, we will be in touch to discuss administrative access and co-ordinate your first Snapcrafters meeting.
 
 ### Creating a new snap<a name="new-snap"/>
 
