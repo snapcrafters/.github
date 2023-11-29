@@ -41,9 +41,17 @@ To become a member of Snapcrafters you must be:
 * An active participant in the forum.
 * An active maintainer of at least one snap in your own name.
 
-If you fit these criteria then add a comment on the [Snapcrafters reboot post](https://forum.snapcraft.io/t/snapcrafters-reboot/24625) to tell us, and the rest of the community, about your snaps. Also tell us the Snapcrafters snaps that you would like to take on. Ideally you have familiarity with the snaps you request. State the different ways of contribution and participation you’d like to be involved in. After your have been approved, we will be in touch to discuss administrative access.
+If you fit these criteria then you can follow this process.
 
-We elect members on a "provided nobody says no" basis. If none of the snapcrafters vote against your membership, you become a member!
+1. Create a post on the forum in [the Snapcrafters category](https://forum.snapcraft.io/c/snapcrafters/23) titled `<your-name> | Snapcrafters membership application`, where you give a short intro of your contributions to the snap ecosystem. This includes
+   * Which snaps you’ve maintained and for how long.
+   * Which other snaps you’ve contributed to.
+   * [if applicable] which other snap projects (like `snapcraft`) you’ve contributed to
+   * How you want to contribute to snapcrafters.
+     * Which existing Snapcrafters snaps do you want to maintain?
+     * Or which snaps do you want to bring under the umbrella?
+1. We will notify you that we received your application and will discuss it internally. If none of the existing members object and at least one of the Administrators wants to support you, you become a member!
+1. After your have been approved, one of the Snapcrafters Admins will be in touch to discuss administrative access.
 
 ### Creating a new snap<a name="new-snap"/>
 
