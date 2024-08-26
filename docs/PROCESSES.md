@@ -9,6 +9,7 @@
   * [Transfering a snap to upstream](#transfer-to-upstream)
   * [How to contribute to a snap](#contributing)
   * [How to test a snap](#testing)
+  * [Adding a new snap to Snapcrafters](#new-snap)
 
 ## Member types<a name="member-types"/>
 
@@ -87,3 +88,16 @@ For more information on our contribution process, see [our Contributing Guide](h
 ### Snap testing guidelines<a name="testing"/>
 
 Snapcrafters should follow "good enough" testing. It is more important to test quickly and often than to test thoroughly. We don’t want to slow down our work too much, but we also want to make sure applications still work.
+
+### Adding a new snap to Snapcrafters<a name="new-snap"/>
+
+Any Snapcrafter can add a new snap to our collection, but in general, we should avoid expanding our library until our backlog is addressed. We have a lot of snaps without automation and on very old cores, so we want to fix those before giving ourselves more work.
+
+Take a look at [our dashboard](https://snapcrafters.org/snap-packages/) to see which snaps don't have automation yet. Any snap with CI status "unknown" and with hashes instead of versions is not fully automated yet.
+
+Process:
+
+1. Ask the other Snapcrafters in our Matrix channel whether they think it's a good idea to add a new snap.
+2. If nobody objects, ask one of the admins to register the snap name.
+3. Fork the template repository, add your snap code and make automation work.
+4. Add one of the admins to set up credentials for the automation.
